@@ -43,7 +43,7 @@ npm start
 2. Framework: Next.js (mặc định)
 3. Không cần biến môi trường cho bản client-only
 
-Production URL sẽ được cập nhật sau khi deploy (xem mục dưới nếu đã có).
+**Production:** [https://pdf-editor-ten-amber.vercel.app](https://pdf-editor-ten-amber.vercel.app)
 
 ## Kiểm thử nhanh
 
